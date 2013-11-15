@@ -1,0 +1,72 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+p, h2 {
+	text-align: center;
+	vertical-align: middle;
+}
+h2 {
+	font-size: 1.2em;
+	margin: 4px 0;
+	color: #10059f;
+}
+p {
+	font-size: .8em;
+	color: #333333;
+}
+#container {
+	width: 1300px;
+}
+.content {
+	width: 60px;
+	height: 60px;
+	margin: 1px;
+	border: 1px solid #000000;
+}
+.wrap {
+	/*height: 446px;*/
+	float: left;
+}
+.labels {
+	height: 60px;
+	width: 20px;
+}
+.labels p {
+	text-align: center;
+	padding-top: 30px;
+}
+.red p {
+	color: red;
+}
+.spanbox2 {
+	width: 188px;
+}
+.names p {
+	padding-top:20px;
+	color:red;
+}
+.blue {
+	background-color: #6699ff;
+}
+.pink {
+	background-color: #ff9999;
+}
+.yellow {
+	background-color: #ffcc00;
+}
+.green {
+	background-color: #00cc33;
+}
+.spacer {
+	background-color: none;
+	border-color: transparent;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 60px; 
+}
+.cheat-height {
+	line-height: 20px;
+}
+.clear {clear: both;}
